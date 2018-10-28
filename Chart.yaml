@@ -2,4 +2,4 @@ apiVersion: v1
 appVersion: "18.03"
 description: ejabberd Community Server - Single node
 name: ejabberd
-version: 0.1.0
+version: 0.1.1
